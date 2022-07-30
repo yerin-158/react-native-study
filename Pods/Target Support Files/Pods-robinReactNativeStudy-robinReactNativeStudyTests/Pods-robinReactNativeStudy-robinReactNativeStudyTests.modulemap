@@ -1,0 +1,6 @@
+module Pods_robinReactNativeStudy_robinReactNativeStudyTests {
+  umbrella header "Pods-robinReactNativeStudy-robinReactNativeStudyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
